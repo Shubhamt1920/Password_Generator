@@ -2,7 +2,6 @@
 
 A sleek and customizable **React-based Password Generator** that allows users to generate secure passwords with adjustable length and options for including numbers and special characters. Built with React and styled using TailwindCSS for a clean, responsive UI.
 
-![Password Generator Demo](https://user-images.githubusercontent.com/your-demo-image.png) <!-- Optional: Replace or remove -->
 
 ---
 
